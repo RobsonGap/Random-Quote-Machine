@@ -1,2 +1,2 @@
-# palindrome-checker
+#Random Quote Machine
 project in JavaScript
