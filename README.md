@@ -1,2 +1,2 @@
 #Random Quote Machine
-project in JavaScript
+project in JavaScript free-code-camp
